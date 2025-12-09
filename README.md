@@ -1,5 +1,5 @@
 <h1 align="center">Edimar Calebe Castanho</h1>
-<h3 align="center">Senior Cloud & Embedded Systems Engineer at <a href="https://github.com/magalucloud">@Magalu</a></h3>
+<h3 align="center">Senior Software Engineer at <a href="https://github.com/rungalileo">@rungalileo</a></h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/calebe94" target="_blank">
