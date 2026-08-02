@@ -16,6 +16,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=calebe94&row=2&column=3" alt="calebe94" /></a> </p>
 
 <h3 align="center">✨ Featured Projects</h3>
+<h4 align="center"><a href="https://github.com/calebe94/calebe94.github.io">Blog & Portfolio</a>: My digital garden, blog, and portfolio built with Quartz.</h4>
+<h4 align="center"><a href="https://github.com/calebe94/zuko-pcb">Zuko Pedal</a>: A custom DIY guitar pedal PCB based on the Marshall Guv'nor.</h4>
 <h4 align="center"><a href="https://github.com/TinyToolSH">TinyToolSH</a>: Tiny Posix Tools designed to improve your productivity.</h4>
 <h4 align="center"><a href="https://github.com/Calebe94?tab=repositories">All Projects</a></h4>
 
