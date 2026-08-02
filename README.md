@@ -17,8 +17,7 @@
 
 <h3 align="center">✨ Featured Projects</h3>
 <h4 align="center"><a href="https://github.com/calebe94/calebe94.github.io">Blog & Portfolio</a>: My digital garden, blog, and portfolio built with Quartz.</h4>
-<h4 align="center"><a href="https://github.com/calebe94/zuko-pcb">Zuko Pedal</a>: A custom DIY guitar pedal PCB based on the Marshall Guv'nor.</h4>
-<h4 align="center"><a href="https://github.com/TinyToolSH">TinyToolSH</a>: Tiny Posix Tools designed to improve your productivity.</h4>
+<h4 align="center"><a href="https://github.com/calebe94/tinytools">tinytools</a>: Tiny scripts to improve your productivity.</h4>
 <h4 align="center"><a href="https://github.com/Calebe94?tab=repositories">All Projects</a></h4>
 
 <h3 align="center">Languages and Tools:</h3>
